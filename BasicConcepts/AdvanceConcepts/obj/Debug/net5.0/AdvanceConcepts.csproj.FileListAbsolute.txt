@@ -1,0 +1,15 @@
+C:\Users\KumarSu\source\repos\BasicConcepts\AdvanceConcepts\bin\Debug\net5.0\AdvanceConcepts.exe
+C:\Users\KumarSu\source\repos\BasicConcepts\AdvanceConcepts\bin\Debug\net5.0\AdvanceConcepts.deps.json
+C:\Users\KumarSu\source\repos\BasicConcepts\AdvanceConcepts\bin\Debug\net5.0\AdvanceConcepts.runtimeconfig.json
+C:\Users\KumarSu\source\repos\BasicConcepts\AdvanceConcepts\bin\Debug\net5.0\AdvanceConcepts.runtimeconfig.dev.json
+C:\Users\KumarSu\source\repos\BasicConcepts\AdvanceConcepts\bin\Debug\net5.0\AdvanceConcepts.dll
+C:\Users\KumarSu\source\repos\BasicConcepts\AdvanceConcepts\bin\Debug\net5.0\ref\AdvanceConcepts.dll
+C:\Users\KumarSu\source\repos\BasicConcepts\AdvanceConcepts\bin\Debug\net5.0\AdvanceConcepts.pdb
+C:\Users\KumarSu\source\repos\BasicConcepts\AdvanceConcepts\obj\Debug\net5.0\AdvanceConcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KumarSu\source\repos\BasicConcepts\AdvanceConcepts\obj\Debug\net5.0\AdvanceConcepts.AssemblyInfoInputs.cache
+C:\Users\KumarSu\source\repos\BasicConcepts\AdvanceConcepts\obj\Debug\net5.0\AdvanceConcepts.AssemblyInfo.cs
+C:\Users\KumarSu\source\repos\BasicConcepts\AdvanceConcepts\obj\Debug\net5.0\AdvanceConcepts.csproj.CoreCompileInputs.cache
+C:\Users\KumarSu\source\repos\BasicConcepts\AdvanceConcepts\obj\Debug\net5.0\AdvanceConcepts.dll
+C:\Users\KumarSu\source\repos\BasicConcepts\AdvanceConcepts\obj\Debug\net5.0\ref\AdvanceConcepts.dll
+C:\Users\KumarSu\source\repos\BasicConcepts\AdvanceConcepts\obj\Debug\net5.0\AdvanceConcepts.pdb
+C:\Users\KumarSu\source\repos\BasicConcepts\AdvanceConcepts\obj\Debug\net5.0\AdvanceConcepts.genruntimeconfig.cache

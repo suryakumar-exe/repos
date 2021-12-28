@@ -1,0 +1,14 @@
+C:\Users\KumarSu\source\repos\Training-Tutorial\Training-Tutorial\bin\Debug\netcoreapp3.1\Training-Tutorial.exe
+C:\Users\KumarSu\source\repos\Training-Tutorial\Training-Tutorial\bin\Debug\netcoreapp3.1\Training-Tutorial.deps.json
+C:\Users\KumarSu\source\repos\Training-Tutorial\Training-Tutorial\bin\Debug\netcoreapp3.1\Training-Tutorial.runtimeconfig.json
+C:\Users\KumarSu\source\repos\Training-Tutorial\Training-Tutorial\bin\Debug\netcoreapp3.1\Training-Tutorial.runtimeconfig.dev.json
+C:\Users\KumarSu\source\repos\Training-Tutorial\Training-Tutorial\bin\Debug\netcoreapp3.1\Training-Tutorial.dll
+C:\Users\KumarSu\source\repos\Training-Tutorial\Training-Tutorial\bin\Debug\netcoreapp3.1\Training-Tutorial.pdb
+C:\Users\KumarSu\source\repos\Training-Tutorial\Training-Tutorial\obj\Debug\netcoreapp3.1\Training-Tutorial.csproj.AssemblyReference.cache
+C:\Users\KumarSu\source\repos\Training-Tutorial\Training-Tutorial\obj\Debug\netcoreapp3.1\Training-Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KumarSu\source\repos\Training-Tutorial\Training-Tutorial\obj\Debug\netcoreapp3.1\Training-Tutorial.AssemblyInfoInputs.cache
+C:\Users\KumarSu\source\repos\Training-Tutorial\Training-Tutorial\obj\Debug\netcoreapp3.1\Training-Tutorial.AssemblyInfo.cs
+C:\Users\KumarSu\source\repos\Training-Tutorial\Training-Tutorial\obj\Debug\netcoreapp3.1\Training-Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\KumarSu\source\repos\Training-Tutorial\Training-Tutorial\obj\Debug\netcoreapp3.1\Training-Tutorial.dll
+C:\Users\KumarSu\source\repos\Training-Tutorial\Training-Tutorial\obj\Debug\netcoreapp3.1\Training-Tutorial.pdb
+C:\Users\KumarSu\source\repos\Training-Tutorial\Training-Tutorial\obj\Debug\netcoreapp3.1\Training-Tutorial.genruntimeconfig.cache

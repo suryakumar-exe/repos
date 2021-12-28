@@ -1,0 +1,3 @@
+C:\Users\KumarSu\source\repos\javascript_learning\javascript_learning\obj\Debug\javascript_learning.njsproj.AssemblyReference.cache
+C:\Users\KumarSu\source\repos\javascript_learning\javascript_learning\obj\Debug\javascript_learning.njsproj.CoreCompileInputs.cache
+C:\Users\KumarSu\source\repos\javascript_learning\javascript_learning\bin\Microsoft.NodejsTools.WebRole.dll

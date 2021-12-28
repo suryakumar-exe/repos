@@ -1,0 +1,16 @@
+C:\Users\KumarSu\source\repos\BasicConcepts\Basic_project_learning\bin\Debug\net5.0\Basic_project_learning.exe
+C:\Users\KumarSu\source\repos\BasicConcepts\Basic_project_learning\bin\Debug\net5.0\Basic_project_learning.deps.json
+C:\Users\KumarSu\source\repos\BasicConcepts\Basic_project_learning\bin\Debug\net5.0\Basic_project_learning.runtimeconfig.json
+C:\Users\KumarSu\source\repos\BasicConcepts\Basic_project_learning\bin\Debug\net5.0\Basic_project_learning.runtimeconfig.dev.json
+C:\Users\KumarSu\source\repos\BasicConcepts\Basic_project_learning\bin\Debug\net5.0\Basic_project_learning.dll
+C:\Users\KumarSu\source\repos\BasicConcepts\Basic_project_learning\bin\Debug\net5.0\ref\Basic_project_learning.dll
+C:\Users\KumarSu\source\repos\BasicConcepts\Basic_project_learning\bin\Debug\net5.0\Basic_project_learning.pdb
+C:\Users\KumarSu\source\repos\BasicConcepts\Basic_project_learning\obj\Debug\net5.0\Basic_project_learning.csproj.AssemblyReference.cache
+C:\Users\KumarSu\source\repos\BasicConcepts\Basic_project_learning\obj\Debug\net5.0\Basic_project_learning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KumarSu\source\repos\BasicConcepts\Basic_project_learning\obj\Debug\net5.0\Basic_project_learning.AssemblyInfoInputs.cache
+C:\Users\KumarSu\source\repos\BasicConcepts\Basic_project_learning\obj\Debug\net5.0\Basic_project_learning.AssemblyInfo.cs
+C:\Users\KumarSu\source\repos\BasicConcepts\Basic_project_learning\obj\Debug\net5.0\Basic_project_learning.csproj.CoreCompileInputs.cache
+C:\Users\KumarSu\source\repos\BasicConcepts\Basic_project_learning\obj\Debug\net5.0\Basic_project_learning.dll
+C:\Users\KumarSu\source\repos\BasicConcepts\Basic_project_learning\obj\Debug\net5.0\ref\Basic_project_learning.dll
+C:\Users\KumarSu\source\repos\BasicConcepts\Basic_project_learning\obj\Debug\net5.0\Basic_project_learning.pdb
+C:\Users\KumarSu\source\repos\BasicConcepts\Basic_project_learning\obj\Debug\net5.0\Basic_project_learning.genruntimeconfig.cache

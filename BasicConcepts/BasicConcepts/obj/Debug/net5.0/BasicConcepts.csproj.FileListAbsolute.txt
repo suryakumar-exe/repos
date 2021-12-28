@@ -1,0 +1,16 @@
+C:\Users\KumarSu\source\repos\BasicConcepts\BasicConcepts\bin\Debug\net5.0\BasicConcepts.exe
+C:\Users\KumarSu\source\repos\BasicConcepts\BasicConcepts\bin\Debug\net5.0\BasicConcepts.deps.json
+C:\Users\KumarSu\source\repos\BasicConcepts\BasicConcepts\bin\Debug\net5.0\BasicConcepts.runtimeconfig.json
+C:\Users\KumarSu\source\repos\BasicConcepts\BasicConcepts\bin\Debug\net5.0\BasicConcepts.runtimeconfig.dev.json
+C:\Users\KumarSu\source\repos\BasicConcepts\BasicConcepts\bin\Debug\net5.0\BasicConcepts.dll
+C:\Users\KumarSu\source\repos\BasicConcepts\BasicConcepts\bin\Debug\net5.0\ref\BasicConcepts.dll
+C:\Users\KumarSu\source\repos\BasicConcepts\BasicConcepts\bin\Debug\net5.0\BasicConcepts.pdb
+C:\Users\KumarSu\source\repos\BasicConcepts\BasicConcepts\obj\Debug\net5.0\BasicConcepts.csproj.AssemblyReference.cache
+C:\Users\KumarSu\source\repos\BasicConcepts\BasicConcepts\obj\Debug\net5.0\BasicConcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KumarSu\source\repos\BasicConcepts\BasicConcepts\obj\Debug\net5.0\BasicConcepts.AssemblyInfoInputs.cache
+C:\Users\KumarSu\source\repos\BasicConcepts\BasicConcepts\obj\Debug\net5.0\BasicConcepts.AssemblyInfo.cs
+C:\Users\KumarSu\source\repos\BasicConcepts\BasicConcepts\obj\Debug\net5.0\BasicConcepts.csproj.CoreCompileInputs.cache
+C:\Users\KumarSu\source\repos\BasicConcepts\BasicConcepts\obj\Debug\net5.0\BasicConcepts.dll
+C:\Users\KumarSu\source\repos\BasicConcepts\BasicConcepts\obj\Debug\net5.0\ref\BasicConcepts.dll
+C:\Users\KumarSu\source\repos\BasicConcepts\BasicConcepts\obj\Debug\net5.0\BasicConcepts.pdb
+C:\Users\KumarSu\source\repos\BasicConcepts\BasicConcepts\obj\Debug\net5.0\BasicConcepts.genruntimeconfig.cache

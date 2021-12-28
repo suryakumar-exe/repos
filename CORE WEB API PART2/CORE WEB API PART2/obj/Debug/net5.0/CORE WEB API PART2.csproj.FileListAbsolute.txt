@@ -1,0 +1,29 @@
+C:\Users\KumarSu\source\repos\CORE WEB API PART2\CORE WEB API PART2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\KumarSu\source\repos\CORE WEB API PART2\CORE WEB API PART2\bin\Debug\net5.0\appsettings.json
+C:\Users\KumarSu\source\repos\CORE WEB API PART2\CORE WEB API PART2\bin\Debug\net5.0\CORE WEB API PART2.exe
+C:\Users\KumarSu\source\repos\CORE WEB API PART2\CORE WEB API PART2\bin\Debug\net5.0\CORE WEB API PART2.deps.json
+C:\Users\KumarSu\source\repos\CORE WEB API PART2\CORE WEB API PART2\bin\Debug\net5.0\CORE WEB API PART2.runtimeconfig.json
+C:\Users\KumarSu\source\repos\CORE WEB API PART2\CORE WEB API PART2\bin\Debug\net5.0\CORE WEB API PART2.runtimeconfig.dev.json
+C:\Users\KumarSu\source\repos\CORE WEB API PART2\CORE WEB API PART2\bin\Debug\net5.0\CORE WEB API PART2.dll
+C:\Users\KumarSu\source\repos\CORE WEB API PART2\CORE WEB API PART2\bin\Debug\net5.0\ref\CORE WEB API PART2.dll
+C:\Users\KumarSu\source\repos\CORE WEB API PART2\CORE WEB API PART2\bin\Debug\net5.0\CORE WEB API PART2.pdb
+C:\Users\KumarSu\source\repos\CORE WEB API PART2\CORE WEB API PART2\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\KumarSu\source\repos\CORE WEB API PART2\CORE WEB API PART2\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\KumarSu\source\repos\CORE WEB API PART2\CORE WEB API PART2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\KumarSu\source\repos\CORE WEB API PART2\CORE WEB API PART2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\KumarSu\source\repos\CORE WEB API PART2\CORE WEB API PART2\obj\Debug\net5.0\CORE WEB API PART2.csproj.AssemblyReference.cache
+C:\Users\KumarSu\source\repos\CORE WEB API PART2\CORE WEB API PART2\obj\Debug\net5.0\CORE WEB API PART2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KumarSu\source\repos\CORE WEB API PART2\CORE WEB API PART2\obj\Debug\net5.0\CORE WEB API PART2.AssemblyInfoInputs.cache
+C:\Users\KumarSu\source\repos\CORE WEB API PART2\CORE WEB API PART2\obj\Debug\net5.0\CORE WEB API PART2.AssemblyInfo.cs
+C:\Users\KumarSu\source\repos\CORE WEB API PART2\CORE WEB API PART2\obj\Debug\net5.0\CORE WEB API PART2.csproj.CoreCompileInputs.cache
+C:\Users\KumarSu\source\repos\CORE WEB API PART2\CORE WEB API PART2\obj\Debug\net5.0\CORE WEB API PART2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\KumarSu\source\repos\CORE WEB API PART2\CORE WEB API PART2\obj\Debug\net5.0\CORE WEB API PART2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\KumarSu\source\repos\CORE WEB API PART2\CORE WEB API PART2\obj\Debug\net5.0\staticwebassets\CORE WEB API PART2.StaticWebAssets.Manifest.cache
+C:\Users\KumarSu\source\repos\CORE WEB API PART2\CORE WEB API PART2\obj\Debug\net5.0\staticwebassets\CORE WEB API PART2.StaticWebAssets.xml
+C:\Users\KumarSu\source\repos\CORE WEB API PART2\CORE WEB API PART2\obj\Debug\net5.0\scopedcss\bundle\CORE WEB API PART2.styles.css
+C:\Users\KumarSu\source\repos\CORE WEB API PART2\CORE WEB API PART2\obj\Debug\net5.0\CORE WEB API PART2.RazorTargetAssemblyInfo.cache
+C:\Users\KumarSu\source\repos\CORE WEB API PART2\CORE WEB API PART2\obj\Debug\net5.0\CORE WEB API PART2.csproj.CopyComplete
+C:\Users\KumarSu\source\repos\CORE WEB API PART2\CORE WEB API PART2\obj\Debug\net5.0\CORE WEB API PART2.dll
+C:\Users\KumarSu\source\repos\CORE WEB API PART2\CORE WEB API PART2\obj\Debug\net5.0\ref\CORE WEB API PART2.dll
+C:\Users\KumarSu\source\repos\CORE WEB API PART2\CORE WEB API PART2\obj\Debug\net5.0\CORE WEB API PART2.pdb
+C:\Users\KumarSu\source\repos\CORE WEB API PART2\CORE WEB API PART2\obj\Debug\net5.0\CORE WEB API PART2.genruntimeconfig.cache
