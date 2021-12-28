@@ -4,8 +4,11 @@
     <TargetFramework>net5.0</TargetFramework>
     <RootNamespace>CURD_API_Application</RootNamespace>
 	  <IsPackable>true</IsPackable>
+	  
   </PropertyGroup>
-
+	<Target Name="PrePublishTarget" AfterTargets="Publish">
+		<Exec Command="dotnet ef database update" />
+	</Target>
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Cors" Version="2.2.0" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="5.0.12" />
