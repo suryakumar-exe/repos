@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KumarSu\\source\\repos\\CURD API Application\\CURD API Application\\CURD API Application.csproj": {}
+    "C:\\Users\\KumarSu\\source\\repos\\WebApplication4\\WebApplication4\\WebApplication4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KumarSu\\source\\repos\\CURD API Application\\CURD API Application\\CURD API Application.csproj": {
+    "C:\\Users\\KumarSu\\source\\repos\\WebApplication4\\WebApplication4\\WebApplication4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KumarSu\\source\\repos\\CURD API Application\\CURD API Application\\CURD API Application.csproj",
-        "projectName": "CURD API Application",
-        "projectPath": "C:\\Users\\KumarSu\\source\\repos\\CURD API Application\\CURD API Application\\CURD API Application.csproj",
+        "projectUniqueName": "C:\\Users\\KumarSu\\source\\repos\\WebApplication4\\WebApplication4\\WebApplication4.csproj",
+        "projectName": "WebApplication4",
+        "projectPath": "C:\\Users\\KumarSu\\source\\repos\\WebApplication4\\WebApplication4\\WebApplication4.csproj",
         "packagesPath": "C:\\Users\\KumarSu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KumarSu\\source\\repos\\CURD API Application\\CURD API Application\\obj\\",
+        "outputPath": "C:\\Users\\KumarSu\\source\\repos\\WebApplication4\\WebApplication4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,38 +44,6 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Cors": {
-              "target": "Package",
-              "version": "[2.2.0, )"
-            },
-            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[5.0.12, )"
-            },
-            "Microsoft.AspNetCore.Mvc.Cors": {
-              "target": "Package",
-              "version": "[2.2.0, )"
-            },
-            "Microsoft.EntityFrameworkCore.Sqlite": {
-              "target": "Package",
-              "version": "[5.0.2, )"
-            },
-            "Microsoft.Graph": {
-              "target": "Package",
-              "version": "[4.12.0, )"
-            },
-            "Nancy": {
-              "target": "Package",
-              "version": "[2.0.0, )"
-            },
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[13.0.1, )"
-            },
-            "Swashbuckle": {
-              "target": "Package",
-              "version": "[5.6.0, )"
-            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
