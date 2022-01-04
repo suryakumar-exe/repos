@@ -82,3 +82,4 @@ C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\obj\Rele
 C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\obj\Release\net5.0\ref\CURD API Application.dll
 C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\obj\Release\net5.0\CURD API Application.pdb
 C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\obj\Release\net5.0\CURD API Application.genruntimeconfig.cache
+C:\Users\KumarSu\source\repos\CURD API Application\CURD API Application\bin\Release\net5.0\filename
