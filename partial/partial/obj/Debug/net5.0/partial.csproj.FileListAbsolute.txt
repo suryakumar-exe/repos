@@ -1,0 +1,16 @@
+C:\Users\KumarSu\source\repos\partial\partial\bin\Debug\net5.0\partial.exe
+C:\Users\KumarSu\source\repos\partial\partial\bin\Debug\net5.0\partial.deps.json
+C:\Users\KumarSu\source\repos\partial\partial\bin\Debug\net5.0\partial.runtimeconfig.json
+C:\Users\KumarSu\source\repos\partial\partial\bin\Debug\net5.0\partial.runtimeconfig.dev.json
+C:\Users\KumarSu\source\repos\partial\partial\bin\Debug\net5.0\partial.dll
+C:\Users\KumarSu\source\repos\partial\partial\bin\Debug\net5.0\ref\partial.dll
+C:\Users\KumarSu\source\repos\partial\partial\bin\Debug\net5.0\partial.pdb
+C:\Users\KumarSu\source\repos\partial\partial\obj\Debug\net5.0\partial.csproj.AssemblyReference.cache
+C:\Users\KumarSu\source\repos\partial\partial\obj\Debug\net5.0\partial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KumarSu\source\repos\partial\partial\obj\Debug\net5.0\partial.AssemblyInfoInputs.cache
+C:\Users\KumarSu\source\repos\partial\partial\obj\Debug\net5.0\partial.AssemblyInfo.cs
+C:\Users\KumarSu\source\repos\partial\partial\obj\Debug\net5.0\partial.csproj.CoreCompileInputs.cache
+C:\Users\KumarSu\source\repos\partial\partial\obj\Debug\net5.0\partial.dll
+C:\Users\KumarSu\source\repos\partial\partial\obj\Debug\net5.0\ref\partial.dll
+C:\Users\KumarSu\source\repos\partial\partial\obj\Debug\net5.0\partial.pdb
+C:\Users\KumarSu\source\repos\partial\partial\obj\Debug\net5.0\partial.genruntimeconfig.cache

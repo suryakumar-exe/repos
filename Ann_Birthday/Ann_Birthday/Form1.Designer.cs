@@ -62,16 +62,21 @@ namespace Ann_Birthday
             this.label11 = new System.Windows.Forms.Label();
             this.button3 = new System.Windows.Forms.Button();
             this.comboBox2 = new System.Windows.Forms.ComboBox();
-            this.form1BindingSource = new System.Windows.Forms.BindingSource(this.components);
-            this.programBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.print = new System.Windows.Forms.Button();
             this.GVprint = new System.Windows.Forms.DataGridView();
+            this.comboBox_Font = new System.Windows.Forms.ComboBox();
+            this.label13 = new System.Windows.Forms.Label();
+            this.label14 = new System.Windows.Forms.Label();
+            this.label15 = new System.Windows.Forms.Label();
+            this.comboBox_color = new System.Windows.Forms.ComboBox();
+            this.form1BindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.programBindingSource = new System.Windows.Forms.BindingSource(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.fileSystemWatcher1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.GVprint)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.form1BindingSource)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.programBindingSource)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.GVprint)).BeginInit();
             this.SuspendLayout();
             // 
             // btnSearch
@@ -238,12 +243,13 @@ namespace Ann_Birthday
             // linkLabel1
             // 
             this.linkLabel1.AutoSize = true;
-            this.linkLabel1.Font = new System.Drawing.Font("Comic Sans MS", 11.25F);
+            this.linkLabel1.Font = new System.Drawing.Font("Comic Sans MS", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.linkLabel1.ForeColor = System.Drawing.Color.CornflowerBlue;
+            this.linkLabel1.LinkColor = System.Drawing.Color.Red;
             this.linkLabel1.Location = new System.Drawing.Point(41, 140);
             this.linkLabel1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.linkLabel1.Name = "linkLabel1";
-            this.linkLabel1.Size = new System.Drawing.Size(92, 20);
+            this.linkLabel1.Size = new System.Drawing.Size(101, 23);
             this.linkLabel1.TabIndex = 16;
             this.linkLabel1.TabStop = true;
             this.linkLabel1.Text = "Attachment";
@@ -419,6 +425,7 @@ namespace Ann_Birthday
             // 
             // comboBox2
             // 
+            this.comboBox2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox2.FormattingEnabled = true;
             this.comboBox2.Items.AddRange(new object[] {
             "01",
@@ -433,21 +440,10 @@ namespace Ann_Birthday
             "10",
             "11",
             "12"});
-            this.comboBox2.Location = new System.Drawing.Point(1176, 132);
+            this.comboBox2.Location = new System.Drawing.Point(1180, 159);
             this.comboBox2.Name = "comboBox2";
             this.comboBox2.Size = new System.Drawing.Size(121, 28);
             this.comboBox2.TabIndex = 36;
-            this.comboBox2.Text = "01";
-            // 
-            // form1BindingSource
-            // 
-            this.form1BindingSource.DataSource = typeof(Ann_Birthday.Form1);
-            this.form1BindingSource.CurrentChanged += new System.EventHandler(this.form1BindingSource_CurrentChanged);
-            // 
-            // programBindingSource
-            // 
-            this.programBindingSource.DataSource = typeof(Ann_Birthday.Program);
-            this.programBindingSource.CurrentChanged += new System.EventHandler(this.programBindingSource_CurrentChanged);
             // 
             // print
             // 
@@ -472,12 +468,88 @@ namespace Ann_Birthday
             this.GVprint.TabIndex = 38;
             this.GVprint.Visible = false;
             // 
+            // comboBox_Font
+            // 
+            this.comboBox_Font.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.comboBox_Font.FormattingEnabled = true;
+            this.comboBox_Font.IntegralHeight = false;
+            this.comboBox_Font.ItemHeight = 20;
+            this.comboBox_Font.Items.AddRange(new object[] {
+            "Garamond",
+            "Monaco",
+            "cursive",
+            "Courier",
+            "Times"});
+            this.comboBox_Font.Location = new System.Drawing.Point(1180, 327);
+            this.comboBox_Font.Name = "comboBox_Font";
+            this.comboBox_Font.Size = new System.Drawing.Size(121, 28);
+            this.comboBox_Font.TabIndex = 39;
+            this.comboBox_Font.SelectedIndexChanged += new System.EventHandler(this.comboBox_Font_SelectedIndexChanged);
+            // 
+            // label13
+            // 
+            this.label13.AutoSize = true;
+            this.label13.ForeColor = System.Drawing.Color.Black;
+            this.label13.Location = new System.Drawing.Point(1176, 299);
+            this.label13.Name = "label13";
+            this.label13.Size = new System.Drawing.Size(37, 20);
+            this.label13.TabIndex = 40;
+            this.label13.Text = "Font";
+            // 
+            // label14
+            // 
+            this.label14.AutoSize = true;
+            this.label14.Location = new System.Drawing.Point(1176, 118);
+            this.label14.Name = "label14";
+            this.label14.Size = new System.Drawing.Size(48, 20);
+            this.label14.TabIndex = 41;
+            this.label14.Text = "Month";
+            // 
+            // label15
+            // 
+            this.label15.AutoSize = true;
+            this.label15.Location = new System.Drawing.Point(1176, 368);
+            this.label15.Name = "label15";
+            this.label15.Size = new System.Drawing.Size(43, 20);
+            this.label15.TabIndex = 42;
+            this.label15.Text = "Color";
+            // 
+            // comboBox_color
+            // 
+            this.comboBox_color.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.comboBox_color.FormattingEnabled = true;
+            this.comboBox_color.Items.AddRange(new object[] {
+            "darkviolet",
+            "black",
+            "dodgerblue",
+            "orangered",
+            "darkslategray"});
+            this.comboBox_color.Location = new System.Drawing.Point(1180, 400);
+            this.comboBox_color.Name = "comboBox_color";
+            this.comboBox_color.Size = new System.Drawing.Size(121, 28);
+            this.comboBox_color.TabIndex = 43;
+            // 
+            // form1BindingSource
+            // 
+            this.form1BindingSource.DataSource = typeof(Ann_Birthday.Form1);
+            this.form1BindingSource.CurrentChanged += new System.EventHandler(this.form1BindingSource_CurrentChanged);
+            // 
+            // programBindingSource
+            // 
+            this.programBindingSource.DataSource = typeof(Ann_Birthday.Program);
+            this.programBindingSource.CurrentChanged += new System.EventHandler(this.programBindingSource_CurrentChanged);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.ClientSize = new System.Drawing.Size(1370, 663);
+            this.Controls.Add(this.comboBox_color);
+            this.Controls.Add(this.label15);
+            this.Controls.Add(this.label14);
+            this.Controls.Add(this.label13);
+            this.Controls.Add(this.comboBox_Font);
             this.Controls.Add(this.GVprint);
             this.Controls.Add(this.print);
             this.Controls.Add(this.comboBox2);
@@ -519,9 +591,9 @@ namespace Ann_Birthday
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.fileSystemWatcher1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.GVprint)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.form1BindingSource)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.programBindingSource)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.GVprint)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -564,6 +636,11 @@ namespace Ann_Birthday
         private System.Windows.Forms.ComboBox comboBox2;
         private System.Windows.Forms.Button print;
         private System.Windows.Forms.DataGridView GVprint;
+        private System.Windows.Forms.ComboBox comboBox_Font;
+        private System.Windows.Forms.Label label13;
+        private System.Windows.Forms.Label label14;
+        private System.Windows.Forms.ComboBox comboBox_color;
+        private System.Windows.Forms.Label label15;
     }
 }
 

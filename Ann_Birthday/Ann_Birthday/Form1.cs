@@ -289,7 +289,19 @@ namespace Ann_Birthday
         {
             this.Location = new Point(0, 0);
             this.Size = Screen.PrimaryScreen.WorkingArea.Size;
-         
+            label14.BackColor = System.Drawing.Color.Transparent;
+            label10.BackColor = System.Drawing.Color.Transparent;
+            linkLabel1.BackColor= System.Drawing.Color.Transparent;
+            label1.BackColor = System.Drawing.Color.Transparent;
+            label15.BackColor = System.Drawing.Color.Transparent;
+            label13.BackColor = System.Drawing.Color.Transparent;
+            label3.BackColor = System.Drawing.Color.Transparent;
+            label5.BackColor = System.Drawing.Color.Transparent;
+            label7.BackColor = System.Drawing.Color.Transparent;
+            comboBox_Font.SelectedItem = "cursive";
+            comboBox_color.SelectedItem = "black";
+            comboBox2.SelectedItem = "01";
+
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -441,7 +453,7 @@ namespace Ann_Birthday
 
                         String name = Convert.ToString(dataGridView1.Rows[r].Cells["name"].Value);
                         String dep = Convert.ToString(dataGridView1.Rows[r].Cells["department"].Value);
-                        mailbody += (r + 1) + "." + name + "-" + dep+"<br>";
+                        mailbody += (r + 1) + "." + name + " - " + dep+"<br>";
                     }
                     //mail.Body = mailbody;
                     //To
@@ -478,12 +490,23 @@ namespace Ann_Birthday
                     oAttach.PropertyAccessor.SetProperty("http://schemas.microsoft.com/mapi/proptag/0x3712001E", imageContentid);
                     String wishes_header = richTextBox1.Text;
                     String wishes_footer = richTextBox2.Text;
+                    string font = comboBox_Font.SelectedItem.ToString();
+                    string color = comboBox_color.SelectedItem.ToString();
                     /* mail.Body = mailbody;*/
                     //HTML Body
-                    mail.HTMLBody = String.Format(
-                   "<body> <h2 style='font-family: cursive; font-size: 15px;'>Greetings! </h2><br><br> <h2 style='font-family: cursive;font-size: 15px;'>{0}</h1><br><br><h2>{1}</h2> <br><br><img src=\"cid:{2}\"><br><br><h1 style='font-family: cursive; font-size: 15px;'>{3}</h1>Regards,<br>Nordex PLC</body>", wishes_header, mailbody,
-                   imageContentid, wishes_footer);
-
+                   
+                   mail.HTMLBody = String.Format(
+                  "<body> " +
+                  "<h2 style='font-family:"+font+ "; font-size: 20px;color:"+color+";  '>Greetings! </h2>" +
+                  "<br>" +
+                  "<h2 style='font-family: " + font+ ";font-size: 20px;color:"+color+ ";'>{0}</h2>" +
+                  "<br>" +
+                  "<h2 style='font-family: " + font + ";'>{1}</h2> " +
+                  "<br>" +
+                  "<img src=\"cid:{2}\"><br><h1 style='font-family:" + font+ "; font-size: 20px;color:"+color+"'>{3}</h1>" +
+                  "<h2 style='font-family:" + font + "; font-size: 20px;color:" + color + "'>Regards,<br>Nordex PLC</h2></body>", wishes_header, mailbody,
+                  imageContentid, wishes_footer);
+                   
                     mail.Importance = Outlook.OlImportance.olImportanceNormal;
                     mail.Send();
 
@@ -512,19 +535,19 @@ namespace Ann_Birthday
                         string exp = Convert.ToString(dataGridView1.Rows[r].Cells["experience"].Value);
                         if (exp == "1")
                         {
-                            mailbody += (r + 1) + "." + name + " - " + dep + " - " + exp + "st year Anniversary" + "<br>";
+                            mailbody += (r + 1) + ". " + name + " - " + dep + " - " + exp + "st year Anniversary" + "<br>";
                         }
                         else if(exp == "2")
                         {
-                            mailbody += (r + 1) + "." + name + " - " + dep + " - " + exp + "nd year Anniversary" + "<br>";
+                            mailbody += (r + 1) + ". " + name + " - " + dep + " - " + exp + "nd year Anniversary" + "<br>";
                         }
                         else if (exp == "3")
                         {
-                            mailbody += (r + 1) + "." + name + " - " + dep + " - " + exp + "rd year Anniversary" + "<br>";
+                            mailbody += (r + 1) + ". " + name + " - " + dep + " - " + exp + "rd year Anniversary" + "<br>";
                         }
                         else
                         {
-                            mailbody += (r + 1) + "." + name + " - " + dep + " - " + exp + "th year Anniversary" + "<br>";
+                            mailbody += (r + 1) + ". " + name + " - " + dep + " - " + exp + "th year Anniversary" + "<br>";
                         }
                     }
                     //mail.Body = mailbody;
@@ -562,9 +585,22 @@ namespace Ann_Birthday
                     String wishes_header = richTextBox1.Text;
                     String wishes_footer = "Happy Birthday & have a great year ahead!";
                     /* mail.Body = mailbody;*/
+                    string font = comboBox_Font.SelectedItem.ToString();
+                    string color = comboBox_color.SelectedItem.ToString();
+                    /* mail.Body = mailbody;*/
+                    //HTML Body
+
                     mail.HTMLBody = String.Format(
-                   "<body> <h2 style='font-family: cursive; font-size: 15px;'>Greetings! </h2><br><h2 style='font-family: cursive;font-size: 15px;'>{0}</h1><br><br><h2>{1}</h2> <br><br><img src=\"cid:{2}\"><br><br><h1 style='font-family: cursive; font-size: 15px;'>{3}</h1>Regards,<br>Nordex PLC</body>", wishes_header, mailbody,
-                   imageContentid, wishes_footer);
+                 "<body> " +
+                 "<h2 style='font-family:" + font + "; font-size: 20px;color:" + color + ";  '>Greetings! </h2>" +
+                 "<br>" +
+                 "<h2 style='font-family: " + font + ";font-size: 20px;color:" + color + ";'>{0}</h2>" +
+                 "<br>" +
+                 "<h2 style='font-family: " + font + ";'>{1}</h2> " +
+                 "<br>" +
+                 "<img src=\"cid:{2}\"><br><h1 style='font-family:" + font + "; font-size: 20px;color:" + color + "'>{3}</h1>" +
+                 "<h2 style='font-family:" + font + "; font-size: 20px;color:" + color + "'>Regards,<br>Nordex PLC</h2></body>", wishes_header, mailbody,
+                 imageContentid, wishes_footer);
 
 
                     mail.Importance = Outlook.OlImportance.olImportanceNormal;
@@ -835,6 +871,11 @@ namespace Ann_Birthday
             
 
 
+        }
+
+        private void comboBox_Font_SelectedIndexChanged(object sender, EventArgs e)
+        {
+         
         }
     }
 }

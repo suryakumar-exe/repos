@@ -1,0 +1,5 @@
+C:\Users\KumarSu\source\repos\dele\dele\obj\Debug\net5.0\dele.csproj.AssemblyReference.cache
+C:\Users\KumarSu\source\repos\dele\dele\obj\Debug\net5.0\dele.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KumarSu\source\repos\dele\dele\obj\Debug\net5.0\dele.AssemblyInfoInputs.cache
+C:\Users\KumarSu\source\repos\dele\dele\obj\Debug\net5.0\dele.AssemblyInfo.cs
+C:\Users\KumarSu\source\repos\dele\dele\obj\Debug\net5.0\dele.csproj.CoreCompileInputs.cache

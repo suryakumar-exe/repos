@@ -70,8 +70,6 @@ namespace CURD_API_Application
             app.UseDefaultFiles();
             app.UseRouting();
 
-            app.UseAuthorization();
-
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
